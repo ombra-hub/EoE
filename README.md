@@ -43,6 +43,10 @@ _Echoes of Eternity (EoE)_ is a groundbreaking platform that fuses **blockchain 
 ### **Scenario 2: The Vietnam War**
 ![Vietnam War](https://github.com/user-attachments/assets/0cf9f627-8bf5-4ced-a71e-595c8c77c482)
 
+### **Scenario 3: The First Woman to fly across the Pacific Ocean**
+![Amelia Earhart](https://github.com/user-attachments/assets/501863ee-01cd-448f-b61d-2ee5dc40af54)
+
+---
 
 # **🌍 Roadmap**
 
