@@ -40,6 +40,10 @@ _Echoes of Eternity (EoE)_ is a groundbreaking platform that fuses **blockchain 
 ### **Scenario 1: Landing on the Moon**
 ![Neil Armstrong](https://github.com/user-attachments/assets/b5d382bc-e40d-4da1-bda0-1c3f9b2a1f5e)
 
+### **Scenario 2: The Vietnam War**
+![Vietnam War](https://github.com/user-attachments/assets/0cf9f627-8bf5-4ced-a71e-595c8c77c482)
+
+
 # **🌍 Roadmap**
 
 ### **Phase 1: Initial Launch**
