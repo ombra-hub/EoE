@@ -5,23 +5,6 @@ _Echoes of Eternity (EoE)_ is a groundbreaking platform that fuses **blockchain 
 
 ---
 
-## **📚 Quick Start for Developers**  
-
-### **Step 1, 2, & 3: Install, Configure, and Use the EoE SDK**  
-bash
-# Step 1: Install the EoE SDK
-cargo add echoes-eternity 
-# Step 2: Update `Cargo.toml` with Features
-[dependencies]
-echoes-eternity = { features = ["eternity-shield", "cross-chain"] }
-
-// Step 3: Use EoE in Your Code
-use echoes_eternity::*;
-
-let result = verify_signature(&args.signature, &args.message, &args.public_key);
-assert!(result.is_ok());
-Ok(())
-
 # **🔒 Infrastructure Layers of Echoes of Eternity**
 
 ### **1. Cryptographic Foundations**
@@ -94,11 +77,3 @@ Ok(())
 # **📜 License**
 
 _Echoes of Eternity_ is distributed under the **Apache License 2.0**, ensuring free use, modification, and distribution while maintaining attribution.
-
----
-
-# **📚 Quick Start for Developers**
-
-### **Step 1: Install the EoE SDK**
-bash
-cargo add echoes-eternity
