@@ -35,12 +35,6 @@ _Echoes of Eternity (EoE)_ is a groundbreaking platform that fuses **blockchain 
 
 ---
 
-# **EXAMPLES**
-
-1. ![Image Description](./assets/Vietnam War.jpg "Optional Title")
-
----
-
 # **🌍 Roadmap**
 
 ### **Phase 1: Initial Launch**
