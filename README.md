@@ -37,7 +37,8 @@ _Echoes of Eternity (EoE)_ is a groundbreaking platform that fuses **blockchain 
 
 # **EXAMPLES**
 
- 1. ![Local Image](.assets/Amelia Earhart.jpg "Echoes of Eternity")
+1. ![Image Description](../assets/images/filename.png "Optional Title")
+
 ---
 
 # **🌍 Roadmap**
