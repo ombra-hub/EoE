@@ -1,1 +1,22 @@
+[package]
+name = "EchoesOfEternity"
+version = "0.1.0"
+authors = ["EoE"]
+description = "Echoes of Eternity is a transformative AI platform that merges cutting-edge conversational technology with immersive, mythological storytelling. It enables users to experience dialogues with timeless personas and transform objects into AI-driven artifacts."
+edition = "2021"
+categories = ["artificial-intelligence", "transformative", "mythology"]
+keywords = ["AI", "transformative", "mythology", "immersive"]
+repository = "https://github.com/EoE/EchoesOfEternity"
+
+[dev-dependencies]
+eternity_core = {version = "1.0.0", features = ["mythological-dialogue", "object-transformation"]}
+
+[features]
+# Default features focus on mythological dialogue and object transformation
+mythological-dialogue = []
+object-transformation = []
+immersive-mode = []
+
+[lib]
+crate-type = ["cdylib", "rlib"]
 
